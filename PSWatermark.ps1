@@ -59,3 +59,5 @@ $userinfo = $userinfo[3] + " " + $userinfo[2]
 Write-TextWaterMark -SourceImage "C:\Test\1.jpg" -TargetImage "C:\Test\public.jpg"  -MessageText $userinfo
 echo "Completed"
 Stop-Transcript
+
+#Drawing
