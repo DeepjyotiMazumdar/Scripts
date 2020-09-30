@@ -60,4 +60,4 @@ Write-TextWaterMark -SourceImage "C:\Test\1.jpg" -TargetImage "C:\Test\public.jp
 echo "Completed"
 Stop-Transcript
 
-#Drawing
+
